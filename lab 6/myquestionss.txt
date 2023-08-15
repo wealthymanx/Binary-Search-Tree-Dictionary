@@ -1,0 +1,18 @@
+Q:Is it alive?
+Q:Is it a living creature?
+Q:Does it have fur?
+A:dog
+A:cat
+Q:Does it have feathers?
+A:bird
+Q:Is it a plant?
+Q:Does it produce fruit?
+A:apple tree
+A:orange tree
+Q:Is it a mammal?
+Q:Does it live in the ocean?
+A:dolphin
+A:whale
+Q:Does it have a long neck?
+A:giraffe
+A:horse
